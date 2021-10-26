@@ -1,0 +1,9 @@
+06_meuscript.sh
+07_testeuservar.sh
+07_testevar2.sh
+07_testevar.sh
+08_testecrase.sh
+251021-075817.log
+arq.txt
+README.md
+seg 25 out 2021 13:39:16 -03
